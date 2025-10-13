@@ -18,7 +18,7 @@ cont:{
     flex:1,
 justifyContent:"center",
 alignItems:"center",
-backgroundColor:"#606060",
+backgroundColor:"#404040",
 
 
 
