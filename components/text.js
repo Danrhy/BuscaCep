@@ -17,7 +17,7 @@ const style_Txt= StyleSheet.create({
 txt:{
 alignSelf:"stretch",
 fontSize:15,
-color:"#fff",
+color:"#404040",
 padding:'10',
 marginLeft:50,
 marginTop:20,
