@@ -18,7 +18,7 @@ return(
 const style_Btn = StyleSheet.create({
 
 btn:{
-    width:"70%",
+    width:"80%",
     height:40,
 justifyContent:"center",
 alignItems:"center",
