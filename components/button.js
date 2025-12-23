@@ -23,13 +23,13 @@ btn:{
 justifyContent:"center",
 alignItems:"center",
 backgroundColor:"#FFFF",
-borderColor:"#101010",
+borderColor:"#606060",
 borderRadius:10,
 marginTop:20,
 
 },
 txt:{
-color:"#202020",
+color:"#606060",
 fontSize:10,
 textAlign:"center",
 
