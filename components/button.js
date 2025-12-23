@@ -29,7 +29,7 @@ marginTop:20,
 
 },
 txt:{
-color:"#202020",
+color:"#606060",
 fontSize:10,
 textAlign:"center",
 
