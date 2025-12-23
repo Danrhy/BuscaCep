@@ -23,7 +23,7 @@ btn:{
 justifyContent:"center",
 alignItems:"center",
 backgroundColor:"#FFFF",
-borderColor:"#808080",
+borderColor:"#606060",
 borderRadius:10,
 marginTop:20,
 
